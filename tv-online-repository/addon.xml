@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="tv-online-repository" name="tv online repository" version="0.0.2" provider-name="rickyboy69">
+	<extension point="xbmc.addon.repository" name="tv online  Add-on Repository">
+		<info compressed="false">http://raw.github.com/rickyboy69/tv-online-repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/rickyboy69/tv-online-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/rickyboy69/tv-online-repository/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>tv online  Addon</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
