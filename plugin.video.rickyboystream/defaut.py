@@ -51,7 +51,7 @@ def  categorias():
 	addDir('MÚSICAS E VIDEOCLIPES','https://copy.com/1cvRyOdMSOCSBH70?download=1',6,'http://www.aitechautomacao.com.br/images/musica.png')
 	addDir('ESPORTES INTERNACIONAIS','https://copy.com/bIIpBHwFbXMXOBBB?download=1',6,'http://s.glbimg.com/es/ge/f/original/2012/03/05/mascote_esporte_todos.jpg')
 	addDir('RÁDIOS','https://copy.com/znUclLey0qF30gSd?download=1',6,'http://s.glbimg.com/po/tt/f/original/2013/10/21/011787436-radio-station-microphone.jpeg')
-	
+	addDir('canais m3u8','http://pastebin.com/raw.php?i=Bcc0tyKd',6,'http://ccaa2013.s3.amazonaws.com/ccaa2')
 	
 
 
