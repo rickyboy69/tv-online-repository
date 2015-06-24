@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="tv-online-repository" name="tv online repository" version="0.0.2" provider-name="rickyboy69">
 	<extension point="xbmc.addon.repository" name="tv online  Add-on Repository">
-		<info compressed="false">https://github.com/rickyboy69/tv-online-repository/blob/master/addons.xml</info>
-		<checksum>https://github.com/rickyboy69/tv-online-repository/blob/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/rickyboy69/tv-online-repository/tree/master/repo/</datadir>
+		<info compressed="false">http://raw.github.com/rickyboy69/tv-online-repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/rickyboy69/tv-online-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/rickyboy69/tv-online-repository/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>tv online  Addon</summary>
